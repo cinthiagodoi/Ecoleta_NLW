@@ -13,10 +13,10 @@ Before you begin, you will need to have the following tools installed on your ma
 🧭 Run Server(Backend)
 ```
 # Clone this repository
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone git@github.com:cinthiagodoi/Ecoleta_NLW.git
 
 # Access the project folder in the / cmd terminal
-$ cd nlw1
+$ cd Ecoleta_NLW
 
 # Go to the server folder
 $ cd server
